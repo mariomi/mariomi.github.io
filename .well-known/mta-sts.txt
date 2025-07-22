@@ -1,4 +1,4 @@
 version: STSv1
 mode: enforce
 max_age: 86400
-mx: mail.greenleads.xyz
+mx: mail.mobilisbiella.com
